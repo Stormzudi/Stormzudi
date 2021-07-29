@@ -6,7 +6,7 @@
 我是小朱，一位推荐算法的初学者。
 
 -   :hammer_and_pick: Python/Tensorflow
--   :package:  [Recommender System with TF2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0)
+-   :package:  [Recommender System with TF2.0](https://github.com/Stormzudi/Recommender-System-with-TF2.0)
 -   :pencil2: [ZhuNian的学习乐园](https://blog.csdn.net/qq_41709378)
 -   :school: 硕士在读
 
