@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=Stormzudi&hide=prs&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">](https://github.com/Stormzudi)
+[<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Stormzudi&hide=prs&count_private=true&show_icons=false">](https://github.com/Stormzudi)
 
 
 我是小朱，一位推荐算法的初学者。
