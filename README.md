@@ -7,7 +7,7 @@
 
 -   :hammer_and_pick: Python/Tensorflow
 -   :package:  [Recommender-System-with-TF_Pytorch](https://github.com/Stormzudi/Recommender-System-with-TF_Pytorch)
--   📝: [Stormzudi 知乎](https://www.zhihu.com/people/zhu-di-79-47)
+-   :pencil: [Stormzudi 知乎](https://www.zhihu.com/people/zhu-di-79-47)
 -   :pencil2: [ZhuNian的学习乐园](https://blog.csdn.net/qq_41709378)
 -   :school: 硕士在读
 
