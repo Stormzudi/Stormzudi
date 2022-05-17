@@ -3,7 +3,7 @@
 [<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Stormzudi&hide=prs&count_private=true&show_icons=false">](https://github.com/Stormzudi)
 
 
-我是小朱，一位推荐算法的初学者。
+我是小朱，一位推荐算法的爱好者。
 
 -   :hammer_and_pick: Python/Tensorflow
 -   :package:  [Recommender-System-with-TF_Pytorch](https://github.com/Stormzudi/Recommender-System-with-TF_Pytorch)
